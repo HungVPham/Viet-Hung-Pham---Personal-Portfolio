@@ -9,6 +9,4 @@ import { brands } from "./brands"
 
 export const schemaTypes = [
     testimonials, workExperience, experiences, skills, abouts, works, contact, brands
-
-
 ]
